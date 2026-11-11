@@ -224,9 +224,71 @@ if approved_proposals:
                 )
 
 
-    st.warning(
-        "These changes have NOT been applied to CRM."
-    )
+    
+    st.subheader("Live CRM Verification")
+
+    if st.button("Verify Approved Changes in CRM"):
+        from crm_client import get_accounts
+
+        with st.spinner("Checking live CRM records..."):
+            try:
+                accounts = get_accounts()
+                account_lookup = {
+                    str(a.get("account_id")): a
+                    for a in accounts
+                }
+
+                checked = 0
+                verified = 0
+                differences = []
+
+                for proposal in approved_proposals:
+                    changes = proposal.get("proposed_changes") or {}
+
+                    if not changes:
+                        continue
+
+                    checked += 1
+                    account = account_lookup.get(
+                        str(proposal.get("crm_account_id"))
+                    )
+
+                    if account is None:
+                        differences.append(
+                            f"{proposal['facility_name']}: "
+                            "CRM account not found"
+                        )
+                        continue
+
+                    if all(
+                        str(account.get(field)) == str(value)
+                        for field, value in changes.items()
+                    ):
+                        verified += 1
+                    else:
+                        differences.append(
+                            f"{proposal['facility_name']}: "
+                            "CRM values do not match proposed changes"
+                        )
+
+                st.success(
+                    f"Verified {verified} of {checked} "
+                    "approved proposals with field changes."
+                )
+
+                for difference in differences:
+                    st.warning(difference)
+
+                if checked == 0:
+                    st.info(
+                        "No approved proposals require field changes."
+                    )
+
+            except Exception as error:
+                st.error(
+                    f"CRM verification failed: {error}"
+                )
+
 
 else:
     st.info("No approved proposals yet.")
