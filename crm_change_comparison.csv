@@ -1,0 +1,2 @@
+﻿proposal_id,facility,crm_account_id,field,current_crm_value,proposed_value,match_score,review_status,reviewer_note,verification_status
+facility-024,Bellhaven of Portsmouth,001CF3LDWVRGL09P4F,billing_zip,45626,45662,90.0,Approved,"Website confirms Bellhaven of Portsmouth is located at 2222 Gallia St, Portsmouth, OH 45662. CRM billing ZIP currently shows 45626. Proposed correction is 45662. Facility address verified against website; billing-address applicability still requires confirmation. No CRM changes applied.",Needs Verification

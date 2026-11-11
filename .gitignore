@@ -1,0 +1,17 @@
+.env
+.venv/
+__pycache__/
+*.db
+crm_accounts.json
+facility_links.txt
+bellhaven_facilities.json
+.env
+.venv/
+__pycache__/
+*.db
+crm_accounts.json
+facility_links.txt
+bellhaven_facilities.json
+scraper_errors.json
+matching_results.json
+matching_review.csv

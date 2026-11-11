@@ -1,0 +1,138 @@
+{
+  "facility-002": {
+    "decision": "Approved",
+    "note": ""
+  },
+  "facility-024": {
+    "decision": "Approved",
+    "note": "Website confirms Bellhaven of Portsmouth is located at 2222 Gallia St, Portsmouth, OH 45662. CRM billing ZIP currently shows 45626. Proposed correction is 45662. Facility address verified against website; billing-address applicability still requires confirmation. No CRM changes applied."
+  },
+  "facility-001": {
+    "decision": "Needs Investigation",
+    "note": "No reliable CRM account match identified. The highest candidate has a match score of 51.67, with discrepancies in street address, city, state, and ZIP code. Further investigation is required to verify whether an existing CRM account represents this facility. No new account should be created until existing accounts are verified. No CRM changes have been applied."
+  },
+  "facility-003": {
+    "decision": "Needs Investigation",
+    "note": "No reliable CRM match has been confirmed for Bellhaven at Union Square. The highest-ranked candidate, Union Square Senior Living, has an overall match score of 62.6 and a street similarity score of 31.25. Although the city, state, and ZIP code match, the facility name and street address require further verification. Alternative CRM candidates have lower matching scores and do not provide sufficient evidence of an exact match. Recommend investigating existing CRM accounts and confirming the facility's identity and address before creating a new account or making any CRM changes. "
+  },
+  "facility-004": {
+    "decision": "Approved",
+    "note": "Bellhaven Court of Altoona is a strong CRM match candidate with an overall match score of 95.0 and an exact facility name match (100). The street similarity score is 85.71, and the city, state, and ZIP code all match. The identified CRM account is associated with Bellhaven Senior Living (Parent Account). Alternative CRM candidates have substantially lower matching scores. No address differences were identified by the matching process. Final confirmation of facility identity and ownership is required before approving the match. "
+  },
+  "facility-005": {
+    "decision": "Approved",
+    "note": "Bellhaven Crossings of Lima is an excellent CRM match candidate with an overall matching score of 100.0. The facility name and street address match exactly, and the city, state, and ZIP code are consistent between the website and CRM records. The identified CRM account is associated with Harborview Care Group (Parent Account). Alternative CRM candidates have significantly lower scores of 50.19 and 48.15. No address discrepancies were identified. Facility identity and parent-account ownership require final confirmation before approving the proposed match. No CRM changes have been applied."
+  },
+  "facility-006": {
+    "decision": "Approved",
+    "note": "Bellhaven Gardens of Monroe is a strong CRM match candidate with an overall matching score of 100.0. The facility name and street address match exactly, and the city, state, and ZIP code are consistent between the website and CRM records. The identified CRM account is associated with Bellhaven Senior Living (Parent Account). Alternative candidates include Monroe Gardens Care Center (87.17) and Cedar Trail of Monroe (79.33), but the selected account has the strongest overall match. No address discrepancies were identified by the matching process. Facility identity and parent-account ownership require final verification before approval. Lifetime revenue and outstanding AR are both $0. No CRM changes have been applied."
+  },
+  "facility-007": {
+    "decision": "Approved",
+    "note": "Bellhaven Healthcare Centre of Ashland is a strong CRM match candidate with an overall matching score of 94.29. The website facility name and CRM account name have minor spelling and formatting differences (\"Healthcare Centre\" versus \"Health Care Center\"), with a name similarity score of 85.71. The street address matches exactly (100), and the city, state, and ZIP code are consistent. The identified CRM account is associated with Bellhaven Senior Living (Parent Account). Alternative CRM candidates have substantially lower scores of 49.17 and 45.94. No address discrepancies were identified by the matching process. Facility identity and parent-account ownership require final confirmation before approval. No CRM changes have been applied."
+  },
+  "facility-008": {
+    "decision": "Needs Investigation",
+    "note": "Bellhaven of Ashtabula has a potential CRM match with an overall score of 75.00 and an exact facility name match (100). The city, state, and ZIP code match; however, the street similarity score is only 28.57, indicating a significant address discrepancy requiring investigation. The identified CRM account is associated with Bellhaven Senior Living (Parent Account). Alternative CRM candidates have lower scores of 45.44 and 42.88. Verify the current physical facility address against the CRM account address, confirm the account identity and parent relationship, and determine whether the CRM address represents a billing or physical location. No CRM modifications should be made until the discrepancy is resolved."
+  },
+  "facility-009": {
+    "decision": "Needs Investigation",
+    "note": "Bellhaven of Batavia, located at 2000 Hospital Dr, Batavia, OH 45103, has no reliable CRM match identified. The highest-scoring candidate, Bellhaven of Port Clinton, has an overall match score of 47.72, with a name similarity score of 53.33 and street similarity score of 61.11. The city and ZIP code do not match. Two additional candidates, Arbors at Bellhaven Dayton (47.42) and Bellhaven of Ashtabula (45.46), also fail the city and ZIP matching checks. These results do not provide sufficient evidence to associate the facility with an existing CRM account. Recommend investigating whether a Batavia account exists under an alternate name, reviewing historical or inactive CRM records, and verifying the facility's ownership and parent relationship. If no existing account is confirmed, consider creating a new CRM account after verification. Do not modify or create CRM records until the investigation is complete."
+  },
+  "facility-010": {
+    "decision": "Needs Investigation",
+    "note": "Bellhaven of Carlisle, located at 640 Walnut Bottom Rd, Carlisle, PA 17015, has no reliable CRM match identified. The highest-ranked candidate, Bellhaven Shores of Erie, has an overall match score of 49.92, with a name similarity score of 71.11 and street similarity score of 47.06. Although the state matches, the city and ZIP code do not match. Additional candidates, Bellhaven of Meadville (49.19) and Bellhaven of Marion (46.36), also fail the city and ZIP matching checks. The available matching evidence is insufficient to associate the Carlisle facility with any of these existing CRM accounts. Recommend searching for an existing Carlisle account under alternate or historical names, reviewing inactive CRM records, and verifying the facility's ownership and parent account relationship. If no matching account is found, consider creating a new CRM account after verification. No CRM changes should be made until the investigation is complete"
+  },
+  "facility-011": {
+    "decision": "Needs Investigation",
+    "note": "Bellhaven of Chagrin Falls, located at 150 River St, Chagrin Falls, OH 44022, has a potential CRM match with Riverbend Manor Care Center (overall score: 72.08). The street address matches exactly (100), and the city, state, and ZIP code also match. However, the name similarity score is only 30.19, indicating a significant difference between the website facility name and the CRM account name. Both records are associated with Bellhaven Senior Living according to the available CRM evidence. This may represent a renamed or rebranded facility, but the relationship has not been independently verified. The alternative CRM candidates have substantially weaker geographic matching evidence. Recommend verifying the facility's historical name, current ownership, and CRM account identity before approving the match or updating any CRM records. Retain the existing CRM account without modification until verification is completed."
+  },
+  "facility-012": {
+    "decision": "Needs Investigation",
+    "note": "Bellhaven of Chesterton, located at 1250 NW Franklin Street, Chesterton, IN 46304, has a potential CRM match with Chesterton Senior Commons (overall match score: 72.14). The city, state, and ZIP code match, while the street similarity score is 77.55 and the name similarity score is 50.00. Both records appear associated with Bellhaven Senior Living based on the available CRM matching information. The differences in facility name and street address require additional verification. Alternative candidates, Bellhaven of Goshen (48.81) and Bellhaven of Owosso (47.03), have weaker scores and do not match the city or ZIP code. Recommend verifying whether Chesterton Senior Commons is a former name, an existing CRM record for the same facility, or a separate entity. Confirm the physical address, facility identity, and parent relationship before approving any CRM updates. No CRM changes should be applied until verification is completed."
+  },
+  "facility-013": {
+    "decision": "Approved",
+    "note": "Bellhaven of Defiance, located at 700 Carpenter Rd, Defiance, OH 43512, has a very strong CRM match with the existing Bellhaven of Defiance account (overall match score: 97.94). The facility name matches exactly (100), the street similarity score is 94.12, and the city, state, and ZIP code all match. The CRM account is associated with Bellhaven Senior Living (Parent Account). The account contains $66,000 in lifetime revenue and $9,500 in outstanding accounts receivable. Alternative CRM candidates have significantly lower matching scores and do not match the city or ZIP code. Recommend approving the proposed CRM match, subject to final identity and ownership verification. Retain the existing account and preserve its billing and financial history. No duplicate account creation or CRM field modifications are recommended based on the available evidence."
+  },
+  "facility-014": {
+    "decision": "Approved",
+    "note": "Bellhaven of Goshen, located at 1610 College Ave, Goshen, IN 46526, has a very strong CRM match with the existing Bellhaven of Goshen account (overall match score: 97.00). The facility name matches exactly (100), the street similarity score is 91.43, and the city, state, and ZIP code all match. The existing CRM account is associated with Bellhaven Senior Living (Parent Account). The account has $121,000 in lifetime revenue and $0 outstanding accounts receivable. Alternative CRM candidates, Bellhaven of Coldwater (46.24) and Bellhaven of Sandusky (45.09), have significantly weaker matching evidence and do not match the geographic location. Recommend approving the proposed match, subject to final account identity and ownership verification. Retain the existing CRM account and preserve its financial history. No duplicate account creation or CRM field modifications are recommended based on the available evidence."
+  },
+  "facility-034": {
+    "decision": "Approved",
+    "note": "The Arbors at Bellhaven \u2013 Dayton, located at 2210 Salem Ave, Dayton, OH 45406, has a very strong CRM match with the existing Arbors at Bellhaven Dayton account (Account ID: 0010KJFP601YNTZVDA). The overall match score is 97.14, with a name similarity score of 92.86 and a perfect street score of 100. The city, state, and ZIP code all match. The account is associated with Bellhaven Senior Living (Parent Account). Lifetime revenue and outstanding AR are both $0. Alternative CRM candidates have significantly lower scores and do not match the geographic location. Recommend approving the proposed match after confirming account identity and ownership. Retain the existing CRM account; no duplicate account creation or CRM data modifications are recommended."
+  },
+  "facility-015": {
+    "decision": "Approved",
+    "note": "Bellhaven of Kalamazoo, located at 3222 Gull Rd, Kalamazoo, MI 49048, has a very strong CRM match with the existing Bellhaven of Kalamazoo account (Account ID: 001NSHWKQDOYJLPQ20). The overall match score is 97.31, with a perfect name score of 100 and a street similarity score of 92.31. The city, state, and ZIP code all match. The account is associated with Bellhaven Senior Living (Parent Account). Lifetime revenue and outstanding AR are both $0. Alternative CRM candidates have significantly lower matching scores and do not match the geographic location. Recommend approving the proposed match after confirming account identity and ownership. Retain the existing CRM account; no duplicate account creation or CRM data modifications are recommended."
+  },
+  "facility-033": {
+    "decision": "Approved",
+    "note": "Bellhaven Woods of Toledo, located at 4850 NW Sylvania Ave, Toledo, OH 43623, has a strong CRM match with the existing Bellhaven Woods of Toledo account (Account ID: 0014DHACE6WQU3RMM5). The overall match score is 93.00, with a perfect name score of 100 and a street similarity score of 80.00. The city, state, and ZIP code all match. The account is associated with Bellhaven Senior Living (Parent Account) and has $54,000 in lifetime revenue with $0 outstanding AR. Alternative CRM candidates have significantly lower scores and do not match the geographic location. Recommend approving the proposed match after confirming the street address, account identity, and ownership. Retain the existing CRM account and avoid duplicate account creation."
+  },
+  "facility-032": {
+    "decision": "Needs Investigation",
+    "note": "Bellhaven Willow Creek, located at 8060 Willow Creek Ln, Portage, MI 49024, has a potential CRM match with Sunny Acres Retirement Home (Account ID: 0017MN2JYAJBDS8WQZ). The overall match score is 71.39, with a strong street similarity score of 95.24 and matching city, state, and ZIP code. However, the name similarity score is only 32.65, indicating a significant discrepancy between the facility and CRM account names. The CRM account is associated with Bellhaven Senior Living, with $0 lifetime revenue and $0 outstanding AR. Alternative candidates have lower scores and do not match the geographic location. Recommend further investigation to verify whether Sunny Acres Retirement Home is a former name, rebranded facility, or separate entity. Confirm facility identity, address history, and parent ownership before approving the match or creating a new CRM account. No CRM modifications are recommended until verification is completed."
+  },
+  "facility-031": {
+    "decision": "Approved",
+    "note": "Bellhaven Terrace of Akron, located at 55 Ridgewood Avenue, Akron, OH 44313, has a strong CRM match with the existing Bellhaven Terrace of Akron account (Account ID: 0019Y4J61ZBG4R00CD). The overall match score is 97.00, with an exact name match score of 100 and a street similarity score of 91.43. City, state, and ZIP code all match. The CRM account is associated with Bellhaven Senior Living and has $101,000 in lifetime revenue and $9,000 in outstanding AR. Alternative CRM candidates have significantly lower scores and geographic mismatches. The evidence strongly supports matching the website facility to the existing CRM account. Recommend approval after confirming account identity and ownership. No new CRM account is required, and the existing account should be retained."
+  },
+  "facility-030": {
+    "decision": "Approved",
+    "note": "Bellhaven Shores of Erie, located at 4930 W Lake Rd, Erie, PA 16505, has a perfect CRM match score of 100 with the existing Bellhaven Shores of Erie account (Account ID: 001CVBBCSDM7YHN220). The facility name and street address match exactly, and the city, state, and ZIP code are consistent. The account is associated with Bellhaven Senior Living. Alternative CRM candidates have lower matching scores, and no discrepancies were identified with the primary candidate. Recommend approving the existing CRM account match after confirming identity and ownership. No duplicate account creation is necessary."
+  },
+  "facility-016": {
+    "decision": "Needs Investigation",
+    "note": "Bellhaven of Kettering, located at 3313 Wilmington Pike, Kettering, OH 45429, has a potential CRM match with Kettering Care Centre (Account ID: 001WR41PYNWXCAE2X4), with an overall score of 84.19. Although the street address, city, state, and ZIP code match, the facility names differ, and the CRM account is associated with Harborview Care Group rather than Bellhaven Senior Living. Alternative CRM candidates also have similar geographic matches but different names and parent relationships. Further investigation is required to verify facility identity, ownership, and any historical name or ownership changes before approving the match. Recommend Needs Investigation."
+  },
+  "facility-029": {
+    "decision": "Approved",
+    "note": "Strong CRM match identified for Bellhaven Rehabilitation & Nursing of Grove City with Bellhaven Rehab and Nursing of Grove City (Account ID: 001TZCSTBZFM6K5BGN). Overall match score is 94.02, with a 100% street-address match and matching city, state, and ZIP code. Facility names are substantially equivalent, and the CRM account belongs to Bellhaven Senior Living. Alternative candidates have significantly lower scores and location mismatches. Recommend approval based on the consistent matching evidence."
+  },
+  "facility-017": {
+    "decision": "Approved",
+    "note": "Strong CRM match (97.67%). Exact facility name, matching city, state, ZIP, and consistent parent account. Street similarity is 93.33%. Alternative candidates have significantly lower scores. Recommend approval based on matching evidence."
+  },
+  "facility-028": {
+    "decision": "Needs Investigation",
+    "note": "CRM match score is 83.28%, with strong address similarity (90.32%) and matching city, state, and ZIP. However, the website identifies Bellhaven of Zanesville, while the CRM account is Cedar Trail of Zanesville under Cedar Trail Communities. Facility identity and ownership relationship require verification before approval."
+  },
+  "facility-027": {
+    "decision": "Approved",
+    "note": "Strong CRM match (98.06%). Exact facility name, matching city, state, and ZIP code, with 94.44% street similarity. CRM parent is Bellhaven Senior Living. Alternative candidates have significantly lower scores. Recommend approval based on consistent matching evidence."
+  },
+  "facility-026": {
+    "decision": "Approved",
+    "note": ""
+  },
+  "facility-023": {
+    "decision": "Approved",
+    "note": ""
+  },
+  "facility-022": {
+    "decision": "Approved",
+    "note": ""
+  },
+  "facility-025": {
+    "decision": "Approved",
+    "note": ""
+  },
+  "facility-021": {
+    "decision": "Approved",
+    "note": ""
+  },
+  "facility-020": {
+    "decision": "Approved",
+    "note": ""
+  },
+  "facility-018": {
+    "decision": "Approved",
+    "note": ""
+  },
+  "facility-019": {
+    "decision": "Approved",
+    "note": ""
+  }
+}
